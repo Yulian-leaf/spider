@@ -1,0 +1,18 @@
+﻿# OS / Editor
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# VS Code / Visual Studio
+.vscode/
+.vs/
+
+# C/C++ build artifacts
+*.exe
+*.obj
+*.o
+*.out
+
+# Common outputs
+**/output/
+.cph/
